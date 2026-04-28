@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore Python cache files (speeds up your push)
+__pycache__/
+*.pyc
+
+# Ignore environment variables/secrets (Security Best Practice)
+.env
