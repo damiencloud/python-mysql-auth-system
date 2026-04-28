@@ -26,3 +26,18 @@ CREATE TABLE users (
     email VARCHAR(100) UNIQUE,
     password VARCHAR(100)
 );
+
+## Project Preview
+
+### 🚀 Application in Action
+![Application Flow](screenshots/Output.png)
+
+### 🗄️ Backend Database
+| Database Schema | Registered Users |
+| :---: | :---: |
+| ![SQL Script](screenshots/Sql.png) | ![Database Table](screenshots/Db%20Table.png) |
+
+### 📜 Code Implementation
+| Main Menu | Registration Logic | Login Logic |
+| :---: | :---: | :---: |
+| ![Menu](screenshots/Menu.png) | ![Register](screenshots/Register.png) | ![Login](screenshots/Login.png) |
